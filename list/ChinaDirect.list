@@ -8,3 +8,6 @@ IP-CIDR,39.105.33.212/32,no-resolve
 
 # 123云盘
 DOMAIN-SUFFIX,123pan.com
+
+# 京东云路由器
+DOMAIN-SUFFIX,jdcloudwifi.com
