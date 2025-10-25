@@ -10,10 +10,11 @@ IP-CIDR,39.105.33.212/32,no-resolve
 DOMAIN-SUFFIX,123pan.com
 
 # 京东云路由器
-DOMAIN-SUFFIX,jdcloudwifi.com
+#DOMAIN-SUFFIX,jdcloudwifi.com
 
 # 汽水音乐
-DOMAIN-SUFFIX,qishui-music.com
+#DOMAIN-SUFFIX,qishui-music.com
 
 # 红果短剧
-DOMAIN-SUFFIX,novelquickapp.com
+#DOMAIN-SUFFIX,novelquickapp.com
+
