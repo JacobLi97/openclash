@@ -1,21 +1,17 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# 阿里云
-DOMAIN-SUFFIX,jacobli97.top
-DOMAIN-KEYWORD,jacobli97
 # IP段匹配
 IP-CIDR,39.105.33.212/32,no-resolve
 
+# 阿里云
+DOMAIN-SUFFIX,jacobli97.top
+DOMAIN-KEYWORD,jacobli97
 # 123云盘
 DOMAIN-SUFFIX,123pan.com
-
 # 京东云路由器
 DOMAIN-SUFFIX,jdcloudwifi.com
-
 # 汽水音乐
 DOMAIN-SUFFIX,qishui-music.com
-
 # 红果短剧
 DOMAIN-SUFFIX,novelquickapp.com
-
 
