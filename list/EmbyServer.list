@@ -1,8 +1,6 @@
 # Media服务
 
 # emby
-# 红杏云
-DOMAIN-SUFFIX,hongxingyunmovie.vip
 # MSKY
 DOMAIN-SUFFIX,cf.5msky.com
 # 云海
@@ -17,8 +15,6 @@ DOMAIN-SUFFIX,emby3.69yun69.com
 DOMAIN-SUFFIX,hka-emby.aliz.work
 # zox
 DOMAIN-SUFFIX,zoxfree.3767483.xyz
-# 云梯
-DOMAIN-SUFFIX,yunti.online
 # hohai
 DOMAIN-SUFFIX,emby.hohai.eu.org
 # SNTP
@@ -43,6 +39,7 @@ DOMAIN-SUFFIX,emby.heisi.org
 # 影巢
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,hdhive.com
+
 
 
 
