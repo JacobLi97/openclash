@@ -7,10 +7,6 @@ DOMAIN-SUFFIX,cf.5msky.com
 DOMAIN-SUFFIX,oceancloud.asia
 # 喵了个咪
 DOMAIN-SUFFIX,gy.meowfly.de
-# 69云
-DOMAIN-SUFFIX,emby1.69yun69.com
-DOMAIN-SUFFIX,emby2.69yun69.com
-DOMAIN-SUFFIX,emby3.69yun69.com
 # hka
 DOMAIN-SUFFIX,hka-emby.aliz.work
 # zox
@@ -39,6 +35,7 @@ DOMAIN-SUFFIX,emby.heisi.org
 # 影巢
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,hdhive.com
+
 
 
 
