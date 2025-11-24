@@ -7,7 +7,7 @@ IP-CIDR,192.161.60.91/32,no-resolve
 # 阿里云
 DOMAIN-SUFFIX,jacobli97.top
 DOMAIN-KEYWORD,jacobli97
-DOMAIN-KEYWORD,jacobli.top
+DOMAIN-SUFFIX,jacobli.top
 DOMAIN-KEYWORD,jacobli
 # 123云盘
 DOMAIN-SUFFIX,123pan.com
@@ -19,5 +19,6 @@ DOMAIN-SUFFIX,qishui-music.com
 DOMAIN-SUFFIX,novelquickapp.com
 # cctv
 DOMAIN-SUFFIX,cctv.com
+
 
 
