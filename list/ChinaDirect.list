@@ -2,6 +2,7 @@
 
 # IP段匹配
 IP-CIDR,39.105.33.212/32,no-resolve
+IP-CIDR,192.161.60.91/32,no-resolve
 
 # 阿里云
 DOMAIN-SUFFIX,jacobli97.top
@@ -18,4 +19,5 @@ DOMAIN-SUFFIX,qishui-music.com
 DOMAIN-SUFFIX,novelquickapp.com
 # cctv
 DOMAIN-SUFFIX,cctv.com
+
 
